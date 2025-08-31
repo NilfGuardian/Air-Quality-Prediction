@@ -1,0 +1,9 @@
+   import pandas as pd
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+joblib
+   # Load the dataset
+   data = pd.read_csv('air_quality_data.csv')
